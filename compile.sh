@@ -1,0 +1,1 @@
+g++ -o circles circles.cpp `pkg-config opencv --cflags --libs`
